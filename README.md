@@ -61,7 +61,7 @@ src/
 
 1. Commit your changes to your mirror repository.
 1. Add alan.hajo@ui.com as a collaborator.
-1. Email alan.hajo@ui.com and marta.zepa@ui.com a link to your repository.
+1. Email alan.hajo@ui.com and simon.perstorper@ui.com a link to your repository.
 
 ## Considerations
 
