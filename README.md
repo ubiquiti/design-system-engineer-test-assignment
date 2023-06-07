@@ -8,8 +8,8 @@ To successfully complete this test, you will need to follow these guidelines:
 
 - Use the Figma designs as a reference to create the components within Storybook.
 - Utilize the design tokens provided to style the components within Storybook.
-- Ensure that the components are reusable.
-- Write clean, organized, type-safe, and maintainable code that adheres to industry best practices.
+- Ensure that the components are **reusable** and **accessible**.
+- Write **clean**, **organized**, **type-safe**, and **maintainable code** that adheres to **industry best practices**.
 
 ## Resources
 
