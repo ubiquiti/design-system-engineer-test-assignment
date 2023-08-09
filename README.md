@@ -67,7 +67,7 @@ src/
 
 ### What you CAN do
 
-- Take inspiration from public design systems, [example](https://60b3813c9e93660049cec98b-lmuvkivqmh.chromatic.com/?path=/docs/welcome--page).
+- Take inspiration from public design systems, [example](https://style.monday.com/?path=/story/welcome--page).
 - Use third party libraries, but reconsider when you don’t need to.
 - Create & rename files, change the project file structure, as well as use `.mdx` instead of `.tsx` for story files if you want.
 
