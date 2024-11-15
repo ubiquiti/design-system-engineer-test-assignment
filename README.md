@@ -13,7 +13,7 @@ To successfully complete this test, you will need to follow these guidelines:
 
 ## Resources
 
-- [Figma](https://www.figma.com/file/8qV0sjXX45tzthIfuvIMOV/Example-Components?node-id=25%3A20577&t=kESn8xQxJQlUGO4D-1)
+- [Figma](https://www.figma.com/design/4a8LLSx5v2OGPH9IWsTmwa/Design-System-Engineer-Assignment?node-id=4-14366&t=hWl3TZZFQuG8RT5a-1)
 - [Design Tokens](https://docs.google.com/spreadsheets/d/1qIjZMMU-I0V9w_zs4dTU54k6tVR6iyQBexvT0TEdzZs/edit?usp=share_link)
 
 ## Approach
@@ -21,7 +21,7 @@ To successfully complete this test, you will need to follow these guidelines:
 ### Getting Started
 
 1. Go to https://github.com/new/import.
-1. Paste the URL of this repository into the "Your old repository’s clone URL" field.
+1. Paste the URL of this repository into the "The URL for your source repository" field.
 1. Choose a name for your mirror repository, and make it **private**.
 1. Clone your mirror repository to your local machine.
 1. Run `yarn install` to install dependencies.
