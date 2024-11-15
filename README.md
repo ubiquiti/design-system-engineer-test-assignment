@@ -14,7 +14,7 @@ To successfully complete this test, you will need to follow these guidelines:
 ## Resources
 
 - [Figma](https://www.figma.com/design/4a8LLSx5v2OGPH9IWsTmwa/Design-System-Engineer-Assignment?node-id=4-14366&t=hWl3TZZFQuG8RT5a-1)
-- [Design Tokens](https://docs.google.com/spreadsheets/d/1qIjZMMU-I0V9w_zs4dTU54k6tVR6iyQBexvT0TEdzZs/edit?usp=share_link)
+- [Design Tokens](https://docs.google.com/spreadsheets/d/1bg8E5viVUB72Hg7iV3R3qHvkdcXC0comDOtSWS2IDvM/edit?gid=0#gid=0)
 
 ## Approach
 
